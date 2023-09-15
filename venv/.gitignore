@@ -1,2 +1,3 @@
 #Environment file has id and password
 *.env
+/venv/
